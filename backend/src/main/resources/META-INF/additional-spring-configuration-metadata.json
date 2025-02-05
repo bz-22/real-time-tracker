@@ -1,5 +1,17 @@
-{"properties": [{
-  "name": "rapidapi.host",
-  "type": "java.lang.String",
-  "description": "A description for 'rapidapi.host'"
-}]}
+{"properties": [
+  {
+    "name": "rapidapi.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.host'"
+  },
+  {
+    "name": "rapidapi.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.key'"
+  },
+  {
+    "name": "rapidapi.host",
+    "type": "java.lang.String",
+    "description": "A description for 'rapidapi.host'"
+  }
+]}

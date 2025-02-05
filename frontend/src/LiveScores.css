@@ -1,0 +1,56 @@
+.container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2; /* Light gray background */
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .datePicker {
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%; /* Ensure the date picker takes up full width */
+    max-width: 300px; /* Limit the size */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .matchContainer {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .matchTitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .teamLogo {
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+  }
+  
+  hr {
+    width: 100%;
+    margin-top: 15px;
+    border-color: #ddd;
+  }
+  
